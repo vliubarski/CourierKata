@@ -10,7 +10,7 @@ namespace CourierKata
 	{
 		static void Main()
 		{
-			IOrderReader orderReader = new OrderReader();
+			IOrderReader orderReader = new OrderReader(); 
 			IOrder order;
 			try
 			{
