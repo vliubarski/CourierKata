@@ -1,0 +1,6 @@
+﻿<!--<?xml version="1.0" encoding="utf-8" ?>-->
+<Order speedy ="true">
+  <Parcel width ="10" height ="5" weight ="1.5"/>
+  <Parcel width ="15" height ="17" weight ="4"/>
+  <Parcel width ="15" height ="17" weight ="53"/>
+</Order>
